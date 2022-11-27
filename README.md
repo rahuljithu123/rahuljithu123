@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul George
+<h1>👋 Hi, I’m Rahul George</h1>
   <p>I am from Kerala,India.
   I am an Aspiring Web Developer worked through 500+ hours of bootcamp structure in Masai School,Bangalore and
   Proficient in HTML,CSS,Javascript and React.js.
