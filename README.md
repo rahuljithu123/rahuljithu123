@@ -1,7 +1,7 @@
 
   <h1 align="center">Hi 👋, I'm Rahul George</h1>
 <p>I am from Kerala,India.
-  I am an Aspiring Web Developer worked through 500+ hours of bootcamp structure in Masai School,Bangalore and
+  I am an Aspiring Web Developer  and
   Proficient in HTML,CSS,Javascript and React.js.
   Working Passionately to became an Experise in Data Structure and Algorithims</p>
 <h3 align="left">Connect with me:</h3>
