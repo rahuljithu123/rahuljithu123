@@ -3,7 +3,7 @@
 <p>I am from Kerala,India.
   I am an Aspiring Web Developer  and
   Proficient in HTML,CSS,Javascript and React.js.
-  Working Passionately to became an Experise in Data Structure and Algorithims</p>
+  Working Passionately to became an Expertise in Data Structure and Algorithims</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rahul-jithu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-jithu" height="30" width="40" /></a>
